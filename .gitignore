@@ -3,10 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Model files - usually large and not needed in repo
-*.pkl
-*.dat
-
 # Environment folders
 .env
 .venv/
