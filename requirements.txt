@@ -1,0 +1,13 @@
+# Create a Virtual Environment of Python version Python 3.13.2
+# Then install the following Libraries 
+
+opencv-python==4.11.0.86
+dlib==19.24.6
+imutils==0.5.4
+numpy==2.1.1
+Pillow==11.1.0
+scipy==1.15.1
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+--index-url https://download.pytorch.org/whl/cu118
