@@ -16,7 +16,7 @@
 
 ### 🎥 Demo
 
-![FocusTrack Demo](demo.gif)
+![FocusTrack Demo](output.gif)
 
 ---
 
